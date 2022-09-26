@@ -11,6 +11,7 @@
   color: inherit;
   aspect-ratio: 1;
   border-radius: 40px;
+  gap: 1px;
 }
 
 .display {
