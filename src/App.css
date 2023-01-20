@@ -15,7 +15,7 @@
 
 .display {
   width: 80px;
-  background: var(--tg-theme-bg-color);
+  background: #eee;
   box-shadow: 0 0 10px #0002;
 }
 
